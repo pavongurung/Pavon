@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=+Source+Code+Pro+&weight=500&size=34&duration=3000&pause=3000&color=7F00FF&center=true&vCenter=true&random=false&width=900&height=90&lines=Hello+there%2C+I'm+Pavon+Gurung)](https://git.io/typing-svg)
 <div align="center">
-    <p>Ello, I'm a Front-End Developer based in Atlanta, Georgia who is passionate about what i do. Apart from programming, I also enjoy watching Futball and play video games.
+    <p>Hey There, I'm a Front-End Developer based in Atlanta, Georgia who is passionate about what i do. Apart from programming, I also enjoy watching Futball and play video games.
 <p> Thanks for stopping by!</p>
     <a href='https://www.w3schools.com/html/html_intro.asp' title="HTML5" > 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42" alt="html5 logo"  />
