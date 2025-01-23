@@ -20,7 +20,6 @@
 
 <br /><br />
 
-[![GitHub Streak](https://github-readme-streak-stats-steel-nu.vercel.app?user=Pavon&theme=github-dark-blue&hide_border=true&mode=weekly&card_width=430)](https://git.io/streak-stats)
 
 </div>
 
